@@ -1,1 +1,13 @@
-# digital-clock-python
+# Digital-Clock-Python
+
+
+# Download EXE File
+<a href="https://github.com/proarafat/snake_game/raw/main/exe/mainexe/Arafat%20Snake%20Game.exe">
+         <img alt="Download" src="https://user-images.githubusercontent.com/96917595/153041118-c67359e3-190a-4747-9df7-70adb943a5e9.png"></a>
+
+---------------------------------------preview---------------------------------------<BR>
+<img src="https://user-images.githubusercontent.com/96917595/153465194-cd39c6e2-68b9-4a22-855c-367ca3a00c7a.png" alt="Preview=https://user-images.githubusercontent.com/96917595/153465194-cd39c6e2-68b9-4a22-855c-367ca3a00c7a.png">
+
+
+
+
