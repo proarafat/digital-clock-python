@@ -2,7 +2,7 @@
 
 
 # Download EXE File
-<a href="https://github.com/proarafat/snake_game/raw/main/exe/mainexe/Arafat%20Snake%20Game.exe">
+<a href="https://github.com/proarafat/digital-clock-python/raw/main/mainexe/mysetup.exe">
          <img alt="Download" src="https://user-images.githubusercontent.com/96917595/153041118-c67359e3-190a-4747-9df7-70adb943a5e9.png"></a>
 
 ---------------------------------------preview---------------------------------------<BR>
