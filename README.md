@@ -1,5 +1,5 @@
 # Digital-Clock-Python
-## install requer for py file
+## install required for py file
     pip install tkinter
 
 # Download EXE File
