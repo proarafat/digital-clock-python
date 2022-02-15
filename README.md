@@ -1,5 +1,6 @@
 # Digital-Clock-Python
-
+## install requer for py file
+    pip install tkinter
 
 # Download EXE File
 <a href="https://github.com/proarafat/digital-clock-python/raw/main/mainexe/mysetup.exe">
